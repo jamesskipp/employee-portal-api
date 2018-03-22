@@ -1,0 +1,15 @@
+# Binaries
+/bin/
+
+# Jars
+/src/target/
+
+# Eclipse Settings
+/.settings/
+.project
+.classpath
+
+# Dependencies
+/target/
+
+
