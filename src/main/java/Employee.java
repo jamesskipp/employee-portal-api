@@ -99,7 +99,7 @@ public class Employee {
 	 * 
 	 * @param firstName String
 	 */
-	public void setName(String firstName) {
+	public void setFirstName(String firstName) {
 		this.firstName = firstName;
 	}
 	
